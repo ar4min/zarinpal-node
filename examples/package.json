@@ -1,0 +1,6 @@
+{
+    "name": "example",
+    "peerDependencies": {
+      "zarinpal-node-sdk": "file:.."
+    }
+  }
